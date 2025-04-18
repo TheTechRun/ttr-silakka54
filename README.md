@@ -13,32 +13,35 @@ _Secondary_ Modkeys are on the `Layer 1 - Extended - (Green)`. I use these when 
 This is based on the [Gallium](https://github.com/GalileoBlues/Gallium) Layout. Here you can also find the numrow, arrow keys, and  page up/down. There is also a rofi key for app launching. Terminal key will open whatever terminal you bind to it. 
 
 ## Layer 1 - Extended Layer (Green)
-This has the function row, media controls, and symbols. There are also mod keys. Use these as secondary modifier keys to the main modifiers on the thumbkeys.  
+This has the function row, media controls, and symbols. There are also mod keys. Use these as _secondary_ modifier keys to the _main_ modifiers on the thumb clusters.  
 The bottom row on the left half contains undo, redo, select all, copy, cut, and paste. 
 
 ## Layer 2 - Numpad Layer (Purple)
-Toggle this layer on/ff by pressing the `Layer 1 ` + ` Layer 2` keys. 
+Toggle this layer on by pressing the `Layer 1 ` + ` Layer 2` keys. 
 
 This contains the numpad (for quick data entry). The mouse arrow key arrangement on this layer makes it easier to move the mouse diagonally so I kept it separate from the base layer arrow setup. 
 
 ## Shift Layer (Red)
-Self explanatory. Just like on any other keyboard. 
+Self explanatory. Works just like on any other traditionalkeyboard. 
 
 ## Tap Hold (Yellow)
 Tap and Hold to activate. 
 Example: Tap and hold on the `space` thumbkey will simulate pressing the `enter` key. 
-Macros for common words here like "the", "and", etc. Also for punctuation. 
+Macros for common words are here like "the", "and", etc. Also macros for punctuation. 
 
 ## Combos (Orange)
 Press 2 keys together to activate. 
 Example: `B+L` will simulate pressing `Delete`. 
 
 ## Notes
-- There are main and secondary mods. The main mods are on the thumbkeys. Know when to alternate between using Main and Secondary. Example: the Main `shift` is on the right thumb. So you have to use your right hand. That works most of the time. But if you are right handed then sometimes you will need that hand to use your mouse. So you can activate `shift` with your left hand by pressing `layer 1`  and pressing `shift` on that layer. 
+- There are _main_ and _secondary_ mods. The main mods are on the thumbkeys. Know when to alternate between using Main and Secondary. 
+
+Example: the Main `shift` is on the right thumb. So you have to use your right hand. That works most of the time. But if you are right handed then sometimes you will need that hand to use your mouse. So you can activate `shift` with your left hand by pressing `layer 1`  and pressing `shift` on that layer. Another example would be using `alt` on your left hand and arrow keys with your right hand. 
 
 -  There are 2 ways to press `enter`:
 1. Tap and Hold the `space` thumb key.
 2.  Press `A`+`E` combo.
+
 Option 1 will work on any layer. 
 Option 2 will only work on the base layer. 
 
@@ -46,4 +49,6 @@ Option 2 will only work on the base layer.
 
 - The shift layer (red) has all the same symbols as any conventional keyboard setup. The extended layer (green) will have all of the other symbols. 
 
-- Layer 1 (Green) & Layer 2 (Purple) both have  many unised keys. So get creative and add what youbwantm 
+- Layer 1 (Green) & Layer 2 (Purple) both have  many unised keys. So get creative and add what you want.
+
+- The `BKSP` ,`ARROW`, and `Left Thumb Cluster` work the same across all layers.
