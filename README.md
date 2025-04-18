@@ -1,5 +1,7 @@
 # Silakka54 Setup
 
+![text](https://github.com/TheTechRun/ttr-silakka54/blob/master/keycheat.png)
+
 ## Base Layer (White)
 This is based on the [Gallium](https://github.com/GalileoBlues/Gallium) Layout. Here you can also find the numrow, arrow keys, and  page up/down. There is also a rofi key for app launching. Terminal key will open whatever terminal you bind to it. 
 
