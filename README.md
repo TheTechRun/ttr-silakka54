@@ -1,6 +1,10 @@
 # Silakka54 Setup
-
+This my personal setup for the silakka54 that I decided to share with you. 
 ![text](https://github.com/TheTechRun/ttr-silakka54/blob/master/keycheat.png)
+
+## Modkeys
+There are _Main_ and _Secondary_ mods.
+_Main_ Modkeys are on the thumb clusters. I use these a majority of the time.
 
 ## Base Layer (White)
 This is based on the [Gallium](https://github.com/GalileoBlues/Gallium) Layout. Here you can also find the numrow, arrow keys, and  page up/down. There is also a rofi key for app launching. Terminal key will open whatever terminal you bind to it. 
