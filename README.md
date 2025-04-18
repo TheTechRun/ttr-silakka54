@@ -7,7 +7,7 @@ There are _Main_ and _Secondary_ mods.
 
 _Main_ Modkeys are on the left and right thumb clusters. I use these a majority of the time.
 
-_Secondary_ Modkeys are on the `Layer 1 - Extended - (Green)`. I use these when I need to combine modifiers that are on the same thumb cluster. I also use these when I need to access right thumb cluster mods with my left hand. These are one-shot stickies so they can be stacked in sequence. I got this idea from [seniply](https://stevep99.github.io/seniply/).
+_Secondary_ Modkeys are on the `Layer 1 - Extended (Green)`. I use these when I need to combine modifiers that are on the same thumb cluster. I also use these when I need to access right thumb cluster mods with my left hand. These are one-shot stickies so they can be stacked in sequence. I got this idea from [seniply](https://stevep99.github.io/seniply/).
 
 ## Base Layer (White)
 This Layout is based on the [Gallium](https://github.com/GalileoBlues/Gallium). Here you can also find the numrow, arrow keys, and  page up/down. There is also a rofi key for app launching (I use window managers on Linux). Terminal key will open whatever terminal you bind to it. 
