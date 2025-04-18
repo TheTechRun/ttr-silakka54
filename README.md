@@ -4,7 +4,9 @@ This my personal setup for the silakka54 that I decided to share with you.
 
 ## Modkeys
 There are _Main_ and _Secondary_ mods.
+
 _Main_ Modkeys are on the thumb clusters. I use these a majority of the time.
+
 _Secondary_ Modkeys are on the `Layer 1 (Green)`. I use these when I need to combine modifiers that are on the same thumb cluster. I also use these when I need to access right-handed mods with my left hand. These are one-shot stickies so they can be stacked in sequence. I got this idea from [seniply](https://stevep99.github.io/seniply/).
 
 ## Base Layer (White)
