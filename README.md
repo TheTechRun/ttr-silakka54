@@ -5,6 +5,7 @@ This my personal setup for the silakka54 that I decided to share with you.
 ## Modkeys
 There are _Main_ and _Secondary_ mods.
 _Main_ Modkeys are on the thumb clusters. I use these a majority of the time.
+_Secondary_ Modkeys are on the `Layer 1 (Green)`. I use these when I need to combine modifiers that are on the same thumb cluster. I also use these when I need to access right-handed mods with my left hand. These are one-shot stickies so they can be stacked in sequence. I got this idea from [seniply](https://stevep99.github.io/seniply/).
 
 ## Base Layer (White)
 This is based on the [Gallium](https://github.com/GalileoBlues/Gallium) Layout. Here you can also find the numrow, arrow keys, and  page up/down. There is also a rofi key for app launching. Terminal key will open whatever terminal you bind to it. 
